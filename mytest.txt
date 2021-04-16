@@ -422,7 +422,7 @@ CCTV4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 重庆少儿,http://home.lpfcdn.com:4000/udp/235.254.199.137:7980#http://home.lpfcdn.com:4000/udp/235.254.197.110:7980
 重庆公共,http://home.lpfcdn.com:4000/udp/235.254.198.186:7980#http://home.lpfcdn.com:4000/udp/235.254.197.109:7980
 重庆科教,http://home.lpfcdn.com:4000/udp/235.254.198.188:7980#http://home.lpfcdn.com:4000/udp/235.254.197.111:7980
-重庆汽摩,http://home.lpfcdn.com:4000/udp/235.254.199.169:7980#http://home.lpfcdn.com:4000/udp/235.254.197.117:7980
+重庆汽摩,http://home.lpfcdn.com:4000/udp/235.254.199.169:7980
 重庆移动,http://home.lpfcdn.com:4000/udp/235.254.199.170:7980#http://home.lpfcdn.com:4000/udp/235.254.197.113:7980
 重庆手持,http://home.lpfcdn.com:4000/udp/235.254.197.115:7980
 4K频道,#genre#
